@@ -1,0 +1,7 @@
+{
+  "name": "travis-example",
+  "short_name": "travis-example",
+  "description": "travis-test",
+  "start_url": "/",
+  "display": "standalone"
+}
